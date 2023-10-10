@@ -1,6 +1,6 @@
 package Practice;
 
-public class seperation {
+public class OccurenceOfWord {
     public static void main(String[] args) {
         //bir string in icinde belli bir string in kac defa gectigini bulunuz
         

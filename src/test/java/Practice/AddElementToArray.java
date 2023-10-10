@@ -7,7 +7,6 @@ public class AddElementToArray {
         int [] arr={4,5,1,9,0};
 
         addElementToArray(arr,45);
-//tryabc
     }
 
     public static void addElementToArray(int[] arr, int y) {

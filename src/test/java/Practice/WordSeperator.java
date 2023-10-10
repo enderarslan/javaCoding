@@ -1,6 +1,6 @@
 package Practice;
 
-public class wordSeperator {
+public class WordSeperator {
     public static void main(String[] args) {
 
 

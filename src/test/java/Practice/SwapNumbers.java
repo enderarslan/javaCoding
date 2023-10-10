@@ -1,6 +1,6 @@
 package Practice;
 
-public class swapNumbers {
+public class SwapNumbers {
     public static void main(String[] args) {
 
         //swap numbers without third variable

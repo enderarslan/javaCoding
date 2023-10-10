@@ -3,7 +3,7 @@ package Practice;
 import java.util.HashMap;
 import java.util.Map;
 
-public class occurence {
+public class CharOccurence {
     public static void main(String[] args) {
         String str= "enderbaharkejfbjhsvfshdzbdfbshiabvhfsvasbdfhdasvfhgvadshfvadhsvfavsdfvgadsjhfvdhsajf";
     char []x =str.toCharArray();

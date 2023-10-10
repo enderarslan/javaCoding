@@ -3,7 +3,7 @@ package Practice;
 import java.util.HashSet;
 import java.util.Set;
 
-public class printDuplicateInArray {
+public class PrintDuplicateInArray {
     public static void main(String[] args) {
 
         int[] a = {4, 6, 2, 4, 6, 9};

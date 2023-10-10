@@ -1,6 +1,6 @@
 package Practice;
 
-public class palindromeInteger {
+public class PalindromeInteger {
 
     public static void main(String[] args) {
 
