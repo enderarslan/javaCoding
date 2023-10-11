@@ -20,6 +20,7 @@ public class BlockInt {
             else {sum+=Integer.parseInt(y);
                 y="0";}
         }
+        asdfasdf
     return sum;}
 
 }
