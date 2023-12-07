@@ -11,8 +11,8 @@ public static void isPrime(int n){
     for (int i=2 ; i<n ; i++){
 
         if (n%i==0){
-           isPrime=false;break; }
-        else isPrime=true;
+           isPrime=false;
+            break; }
 
       }System.out.println(isPrime);
     }
